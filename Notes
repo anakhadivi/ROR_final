@@ -1,0 +1,9 @@
+should the 'def after_sign_in_path_for(resource)' in the application controller be
+'def after_new_user_session_path_for(resource)' for my specific routes?
+
+
+Error occurs after user logs in
+
+only one user-- 
+email :anakhadiv@icloud.com
+password :password
